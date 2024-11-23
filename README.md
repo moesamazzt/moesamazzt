@@ -24,9 +24,9 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/moesamazzt/moesamazzt/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="GIF" src="https://github.com/moesama-zzt/moesama-zzt/assets/94951283/745c021a-85bd-4d0c-8ec3-7fe4e07b739e" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/moesamazzt/moesamazzt/assets/94951283/745c021a-85bd-4d0c-8ec3-7fe4e07b739e" width="350"/>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -40,11 +40,11 @@
 
 <h3> ⚡ Git Stat </h3>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=moesama-zzt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesama-zzt&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=moesamazzt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesamazzt&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moesama-zzt&bg_color=ffffff&color=8eadec&line=3b3b3b&point=ff7a7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moesamazzt&bg_color=ffffff&color=8eadec&line=3b3b3b&point=ff7a7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-⭐️ From [moesama-zzt](https://github.com/moesama-zzt)
+⭐️ From [moesamazzt](https://github.com/moesamazzt)
